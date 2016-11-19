@@ -1,0 +1,9 @@
+# Messages (color codes supported)
+
+night:
+  tick: 16000
+  message: '&4Night approaches...'
+
+day:
+  tick: 4000
+  message: 'Dawn is near...'
